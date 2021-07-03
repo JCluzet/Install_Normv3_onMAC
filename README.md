@@ -6,4 +6,4 @@ A simple script to install norm3
 
 ### Install in one command :
 
-#### git clone https://github.com/JCluzet/Install_Normv3_onMAC.git && de Install_Normv3_onMAC && sh launchnorm.sh
+#### git clone https://github.com/JCluzet/Install_Normv3_onMAC.git && cd Install_Normv3_onMAC && sh launchnorm.sh
